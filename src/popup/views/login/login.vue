@@ -55,7 +55,7 @@ const onLogin = () => {
     top: 0
     bottom: 0
     width: 100%
-    background: #4bb8e5
+    background: #47A2E0
     .logo
         display: block
         margin: 50px auto 20px

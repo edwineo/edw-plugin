@@ -3,7 +3,6 @@
 <template>
     <div class="P-home">
         <h1>Home Page</h1>
-        123
     </div>
 </template>
 
